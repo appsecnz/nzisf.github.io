@@ -1,5 +1,5 @@
-
-# New Zealand Information Security Forum (NZISF)
-
-NZISF is supported, and hosted, by [AppSec New Zealand Incorporated](https://appsec.org.nz).
-
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to https://hilmibesli.github.io/NZISF-website/</title>
+<meta http-equiv="refresh" content="0; URL=https://yournewpage.com/">
+<link rel="canonical" href="https://hilmibesli.github.io/NZISF-website/">
